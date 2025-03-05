@@ -1,4 +1,4 @@
-# Rama-
+# Rama
 
 🚀 Rama - Lightweight Container Runtime
 
